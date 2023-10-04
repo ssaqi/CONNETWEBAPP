@@ -1,0 +1,68 @@
+.card19{
+      
+    height: 750px;
+    background-image: url('../../../../Componets/Assests/Group\ 107.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    border-radius:0px;
+    overflow: hidden;
+}
+
+.tile2{
+
+      font-size: 40px;
+      font-weight: 700;
+      color: white;
+}
+
+
+.heading{
+
+      font-size: 22px;
+      color:#fff;
+      font-weight: 500;
+      margin-top: 30px;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+
+      .card19{
+             
+             width:auto;
+             height: auto;
+
+      }
+
+      .infoimg{
+
+              width: 100px;
+              height: 100px;
+              margin-top: 20px;
+      }
+
+      .heading{
+
+            font-size: 18px;
+            color:#fff;
+            font-weight: 300;
+            margin-top: 20px;
+            
+          
+      }
+
+      .tile2{
+
+            font-size: 25px;
+            font-weight: 700;
+            color: white;
+            text-align: center;
+      }
+      
+      
+
+
+      
+}

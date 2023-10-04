@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52f56ff5.css",
+    "main.js": "/static/js/main.56b88523.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/first.jpg": "/static/media/first.d70a12e17bf8a21baaa3.jpg",
+    "static/media/4.png": "/static/media/4.c57221124da93039d88b.png",
+    "static/media/108.png": "/static/media/108.3822576c1eb77c2af67d.png",
+    "static/media/3.png": "/static/media/3.ea46120916ef78f8a8b7.png",
+    "static/media/Group 107.png": "/static/media/Group 107.cb5ac7a2cecb907609a0.png",
+    "static/media/Group 103.png": "/static/media/Group 103.4d8fc9c33aa38fa86210.png",
+    "static/media/forthbg.jpg": "/static/media/forthbg.90469a6ff669ed57a20d.jpg",
+    "static/media/2.png": "/static/media/2.52444a1d11a4c370ac4c.png",
+    "static/media/7.png": "/static/media/7.205e1ebf99aa68cb6cf5.png",
+    "static/media/playstore.png": "/static/media/playstore.eff55d282efd759d5e15.png",
+    "static/media/footer.png": "/static/media/footer.6824e45bf9f8e34ae7d2.png",
+    "static/media/Thied.jpg": "/static/media/Thied.4e9d935fc7b93edd16bc.jpg",
+    "static/media/Qrcode.jpg": "/static/media/Qrcode.42e3ca695238e67b533c.jpg",
+    "static/media/bg6.jpg": "/static/media/bg6.4a52651726647d8bda7b.jpg",
+    "static/media/Group 106.png": "/static/media/Group 106.747accaa599b0cebe431.png",
+    "static/media/client.png": "/static/media/client.8ab574fbdf5bca133857.png",
+    "static/media/bg2.jpg": "/static/media/bg2.b4dbc4055fa99ecfa909.jpg",
+    "static/media/Artboard1.png": "/static/media/Artboard1.ca9ca0f2a849fc20ecf9.png",
+    "static/media/contact.png": "/static/media/contact.188bd8005c81df81fe67.png",
+    "static/media/logo.jpeg": "/static/media/logo.61adcd4d5b0524bb2f41.jpeg",
+    "index.html": "/index.html",
+    "main.52f56ff5.css.map": "/static/css/main.52f56ff5.css.map",
+    "main.56b88523.js.map": "/static/js/main.56b88523.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52f56ff5.css",
+    "static/js/main.56b88523.js"
+  ]
+}

@@ -1,0 +1,34 @@
+.card11{
+      
+    height: 530px;
+    background-image: url('../../../../Componets/Assests/Artboard1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    border-radius:0px;
+    overflow: hidden;
+}
+
+.tile6{
+
+    font-size: 68px;
+    color: #000000;
+    font-weight:650;
+    margin-top: 40px;
+}
+
+.faq{
+
+     margin-top: 30px;
+}
+
+@media only screen and (max-width: 600px) {
+
+
+    .card11{
+          
+        height:auto;
+    }
+
+    
+}

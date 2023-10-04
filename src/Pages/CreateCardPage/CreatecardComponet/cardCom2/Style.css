@@ -1,0 +1,26 @@
+.card14{
+      
+    height: 150px;
+    background-image: url('../../../../Componets/Assests/client.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    border-radius:0px;
+    overflow: hidden;
+  
+}
+
+
+@media only screen and (max-width: 600px) {
+
+
+       .card14{
+
+          display: none;
+       }
+
+       .add{
+
+          display: none;
+       }
+}
